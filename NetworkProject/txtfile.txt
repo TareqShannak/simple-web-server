@@ -1,0 +1,19 @@
+IPhone 12;829
+IPhone 12 Mini;729
+IPhone 12 Pro Max;1099
+IPhone SE;399
+IPhone XR;499
+Samsung Galaxy M51;350
+Samsung Galaxy A51 5G;470
+Samsung Galaxy S20 Plus 5G;1199
+Samsung Galaxy S20 5G;740
+Samsung Galaxy S10 Lite;500
+Samsung Galaxy Note 20;899
+Nokia X20;398
+Nokia G20;182
+Nokia C10;91
+Nokia 1.4;110
+Huawei P40 4G;620
+Huawei Nova 7 SE Lohas Edition;350
+Huawei Nova 8 Pro King of Glory Edition;620
+Huawei Enjoy 20 SE;190
